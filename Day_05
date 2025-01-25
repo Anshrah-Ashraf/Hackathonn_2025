@@ -1,0 +1,47 @@
+On day 5 of our hackathon project, I made sure that the functions of my website are working.
+STEP : 01 :
+My all latest products (fetched from API and sanity) are showing properly.
+ 
+
+My cart funtion is working properly.
+
+ 
+
+My checkout page is working properly.
+
+ 
+
+I have all my products listed.
+
+ 
+
+My website is responsive but in some dimensions, trouble is coming.
+
+STEP : 02: 
+ 
+
+ 
+
+ STEP: 03:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trust and Safety
+1.Ensure CSP is effective against XSS attacks
+2.Use a strong HSTS policy
+3.Ensure proper origin isolation with COOP
+
+DEVELOPER'S RESOURCES:
+ 
+
+PERFORMANCE MONITOR:
+ 
+
+SECURITY:
+ 
