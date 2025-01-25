@@ -1,0 +1,175 @@
+                FURNIRO
+DAY : 01
+Primary Purpose:
+Funiro is an online furniture store designed to provide a seamless shopping experience for customers seeking high-quality and stylish furniture. The website aims to showcase a wide range of furniture collections for various living spaces, helping users find pieces that suit their tastes and needs.
+
+Marketplace Aim:
+The primary aim of Funiro is to establish itself as a trusted and convenient platform for purchasing furniture online. By offering a curated selection of items across different categories, Funiro seeks to cater to both individual homeowners and businesses looking for modern, functional, and aesthetically pleasing furniture.
+
+Target Audience:
+Funiro targets:
+1. Homeowners looking to furnish or revamp their living spaces.
+
+2. Interior designers seeking stylish furniture options for their clients.
+
+3.Businesses needing furniture for offices, lounges, or other commercial spaces.
+
+4. Young professionals and families who value convenience and modern design...
+
+Website Offerings:
+
+Product Categories:-
+
+⦁	Dining furniture including tables, chairs, and sets.
+
+⦁	Living room essentials like sofas, coffee tables, and TV stands.
+
+⦁	Bedroom furniture such as beds, wardrobes, and nightstands.
+
+New Collections:
+
+⦁	Regularly updated catalog featuring the latest designs and trends.
+
+⦁	Highlighted sections for seasonal and exclusive furniture collections.
+
+User-Friendly Navigation:
+
+⦁	Intuitive interface with clearly categorized sections for easy browsing.
+
+⦁	Search functionality to help users find specific items quickly.
+
+Visual Appeal:
+
+⦁	High-quality images and detailed descriptions of each product.
+
+⦁	Inspiration sections showcasing furniture in real-life settings.
+
+Customer Support:
+
+⦁	Dedicated contact options for inquiries and assistance.
+
+⦁	Information on shipping, returns, and furniture care.
+
+What Sets Funiro Apart:
+
+1. Curated Collections: The website features carefully selected pieces that blend style and functionality, catering to a wide range of preferences.
+
+2. Modern Design: Focuses on sleek, contemporary aesthetics that appeal to trend-conscious buyers.
+
+3. Seamless Shopping Experience: A responsive design ensures accessibility across devices, with smooth navigation and checkout processes.
+
+4. Focus on Inspiration: Through lookbooks and real-life examples, Funiro helps customers envision how furniture can enhance their spaces.
+
+5. Commitment to Quality: Emphasis on durable and well-crafted furniture that offers long-term value.
+
+DAY : 02
+
+Technical workflow for e-commerce website:
+  
+Tools and frameworks:
+
+Front-end: Next.js for fast and responsive UI.
+Back-end: Sanity for data stroage and CMS.
+APIs: External APIs for product data.
+
+PAGES:
+1. Home page
+2. Shop page
+3. Contact page
+4. Cart page
+5. Checkout page
+6. SingleProduct page
+
+WORKFLOW OF MY WEBSITE:
+ 
+
+DAY : 03 :
+On day 3 of our hackathon project, I focused on integrating the API and schemas provided by our teacher into the website. I started by thoroughly analyzing the API documentation to understand its endpoints, methods, and data structure. I then implemented efficient fetch calls to interact with the API, ensuring seamless communication between the frontend and backend. For the schemas, I incorporated them into the project using Sanity, customizing them to align with our project requirements. 
+
+DAY : 04 :
+On day 4 of our hackathon project, I focused mainly on improving the UI of my website, making sure users can find easy to navigate buttons and have no difficulty in roaming through our website.
+
+DAY : 05 :
+On day 5 of our hackathon project, I made sure that the functions of my website are working.
+STEP : 01 :
+My all latest products (fetched from API and sanity) are showing properly.
+ 
+
+My cart funtion is working properly.
+
+ 
+
+My checkout page is working properly.
+
+ 
+
+I have all my products listed.
+
+ 
+
+My website is responsive but in some dimensions, trouble is coming.
+
+STEP : 02: 
+ 
+
+ 
+
+ STEP: 03:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trust and Safety
+1.Ensure CSP is effective against XSS attacks
+2.Use a strong HSTS policy
+3.Ensure proper origin isolation with COOP
+
+DEVELOPER'S RESOURCES:
+ 
+
+PERFORMANCE MONITOR:
+ 
+
+SECURITY:
+ 
+
+DAY : 06 :
+On day 6, I successfully deployed my website on Vercel, a platform known for its seamless deployment process. After finalizing my project, built using CSS, and TypeScript with a backend powered by Sanity and API integrations, I uploaded the code to a GitHub repository. From there, I connected the repository to Vercel, which automatically detected the framework and configured the deployment settings. Vercel's intuitive interface allowed me to manage the build process efficiently, and within minutes, my site was live with a dedicated URL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
